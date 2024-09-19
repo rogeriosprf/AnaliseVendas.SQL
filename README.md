@@ -1,4 +1,4 @@
-Descrição do Projeto
+
 Este projeto é um sistema de análise de dados para um banco de dados de vendas, clientes, produtos e lojas. O objetivo é realizar análises descritivas e estatísticas para entender melhor o comportamento de vendas, a performance de produtos e clientes, e as características das lojas.
 
 O banco de dados inclui as seguintes tabelas:
