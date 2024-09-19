@@ -3,14 +3,7 @@ Este projeto é um sistema de análise de dados para um banco de dados de vendas
 
 O banco de dados inclui as seguintes tabelas:
 
-Lojas: Armazena informações sobre as lojas.
-
-Clientes: Armazena informações sobre os clientes.
-Produtos: Armazena informações sobre os produtos.
-VendasOnline: Armazena informações sobre as vendas realizadas online.
-Vendas: Armazena informações sobre as vendas realizadas nas lojas físicas e online.
-VariacaoPrecos: Armazena informações sobre as variações de preços dos produtos.
-
+Lojas, Clientes, Produtos, VendasOnline, Vendas, VariacaoPrecos
 
 Estrutura do Banco de Dados
 As tabelas são definidas como segue:
